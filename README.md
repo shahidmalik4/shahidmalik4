@@ -1,60 +1,52 @@
-# 👋 Hi, I'm **Shahid Malik** 
+# 👋 Hi, I'm **Shahid Malik**
 
-- I'm passionate about data engineering, analytics, and web development, and I enjoy leveraging my skills to derive insights and build data-driven solutions.
+I'm a **Data Analyst** with 3+ years of experience, currently working at [Lasani Publishers](https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr).  
+I specialize in **data analytics**, **visualization**, and **analytics engineering**, turning raw data into reliable, actionable insights using modern data tools and best practices.
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 📊 Currently, I work as a **Data Analyst** at [Lasani Publishers](https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr).
-- 🎓 I hold a **Bachelor's Degree in Software Engineering**.
+- 📊 Currently working as a **Data Analyst** at Lasani Publishers  
+- 🏗️ Focused on **analytics engineering**, modern data pipelines, and cloud data platforms  
+- 🎓 Holds a **Bachelor's Degree in Software Engineering**
+
+I’m passionate about building scalable data solutions using the **modern data stack** and empowering organizations to make data-driven decisions.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### 🔹 Programming Languages
+### 🔹 Programming & Scripting
+- **Python**: Pandas, NumPy, Matplotlib, Streamlit, FastAPI
 - **SQL**: MySQL, SQL Server, PostgreSQL
-- **Python**: Pandas, NumPy, Matplotlib, Django, Flask
-- **JavaScript**
-- **HTML & CSS**
+- **JavaScript**, **HTML/CSS**
 
-### 🔹 Data Visualization & Analysis
+### 🔹 Analytics & Visualization
 - **Power BI**
 - **Excel**
-- **Databricks**
-- **Airflow**
-- **Docker**
+- **Streamlit**: Interactive data apps
+- **Matplotlib**: Data visualization
+
+### 🔹 Analytics Engineering
+- **dbt**: Data modeling & transformation
+- **ETL Pipelines**: Data extraction, transformation, loading
+- **Data Warehousing**: Snowflake, Redshift, BigQuery
+- **Airflow**: Orchestration & workflow management
 
 ### 🔹 Cloud Platforms
-- **AWS**: EC2, S3, Redshift, Glue, Athena, RDS, EMR
-- **Snowflake**
-- **BigQuery**
+- **AWS**: EC2, S3, Redshift, Glue, Athena, RDS  
+- **Snowflake**, **BigQuery**
 
-### 🔹 Libraries
-- **Pandas**: Data manipulation and analysis
-- **Matplotlib**: Data visualization
-- **PySpark**: Distributed data processing with Spark
+### 🔹 Frameworks & APIs
+- **FastAPI**, **Flask**, **Django**
 
-### 🔹 Databases & RDBMS
-- **MySQL**
-- **SQL Server**
-- **PostgreSQL**
-
-### 🔹 Frameworks
-- **Django**: Full-stack web development and REST APIs
-- **Flask**: Lightweight web applications and APIs
-
-### 🔹 Data Engineering & Orchestration
-- **ETL Pipelines**: Data extraction, transformation, and loading
-- **Data Warehousing**: Scalable and efficient data storage
-- **Workflow Automation**: Automating data tasks and orchestration
-
-### 🔹 Other Skills
-- **Git**: Version control for collaboration and project management
-- **Unix/Linux**: Command-line proficiency and scripting
-- **Automation**: Efficient workflows and repetitive task management
-- **Web Scraping**: Data collection for insights and research
+### 🔹 Other Tools
+- **Git**: Version control & collaboration  
+- **Docker**: Containerization for development & deployment  
+- **Unix/Linux**: Command-line proficiency  
+- **Automation**: Streamlining data workflows  
+- **Web Scraping**: Data collection for research & insights
 
 ---
 
@@ -62,14 +54,14 @@
 
 Explore some of my work:
 
-- 🌐 **Portfolio Projects**: View data analysis and engineering projects on [**my website**](https://shahidmalik.vercel.app).
-- 💻 **Coding Projects**: See my latest code on [**GitHub**](https://github.com/shahidmalik4?tab=repositories).
+- 🌐 **Portfolio Projects**: Data analysis, engineering, and visualization showcased on [**my website**](https://shahidmalik.vercel.app)  
+- 💻 **Coding Projects**: Check out my GitHub repos [**here**](https://github.com/shahidmalik4?tab=repositories)
 
 ---
 
 ## 📫 Connect with Me
 
-Let’s connect and collaborate! Feel free to reach out through:
+I'm always open to connecting and collaborating. Reach out via:
 
 - 🌐 **[Website](https://shahidmalik.vercel.app)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/shahid-malik24/)**
@@ -77,4 +69,4 @@ Let’s connect and collaborate! Feel free to reach out through:
 
 ---
 
-Thanks for visiting my profile! Dive into my repositories, and let’s work together on data, engineering, and innovative solutions. 🚀
+Thanks for stopping by! Feel free to dive into my repositories — let’s connect over data, analytics, and building better systems. 🚀
