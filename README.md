@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Shahid Malik**
 
-I'm a **Data Analyst** with 3+ years of experience, currently working at [Lasani Publishers](https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr).  
+I'm a **Data Analyst** with **4+ years** of experience, currently working at [Lasani Publishers](https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr).  
 I specialize in **data analytics**, **visualization**, and **analytics engineering**, turning raw data into reliable, actionable insights using modern data tools and best practices.
 
 ---
