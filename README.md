@@ -6,12 +6,12 @@ I also build data pipelines and analytics solutions to make working with data ea
 
 ## 🛠 Skills
 
-**Programming & Scripting:**  Python (Pandas, NumPy), SQL, PostgreSQL, JavaScript 
-**Analytics & Visualization:**  Power BI, Excel, Streamlit, Matplotlib  
-**Analytics Engineering:**  dbt, ETL pipelines, Data Warehousing (Snowflake, Redshift, BigQuery), Airflow  
-**Cloud & Platforms:**  AWS (EC2, S3, Redshift, Glue, Athena, RDS), Snowflake, BigQuery  
-**Frameworks & APIs:**  FastAPI, Django  
-**Other Tools:**  Git, Docker, Unix/Linux, Automation, Web Scraping  
+**Programming & Scripting:**  Python (Pandas, NumPy), SQL, PostgreSQL, JavaScript
+**Analytics & Visualization:**  Power BI, Excel, Streamlit, Matplotlib
+**Analytics Engineering:**  dbt, ETL pipelines, Data Warehousing (Snowflake, Redshift, BigQuery), Airflow
+**Cloud & Platforms:**  AWS (EC2, S3, Redshift, Glue, Athena, RDS), Snowflake, BigQuery
+**Frameworks & APIs:**  FastAPI, Django
+**Other Tools:**  Git, Docker, Unix/Linux, Automation, Web Scraping
 
 ---
 
