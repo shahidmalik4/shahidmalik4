@@ -1,4 +1,4 @@
-I'm a **Sr. Data Analyst** with **4+ years** of experience at [Lasani Publishers](https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr).  
+I'm a **Data Analyst** with **4+ years** of experience at [Lasani Publishers](https://www.facebook.com/p/Lasani-Publishers-Lahore-100068993319135/?_rdr).  
 I work with data to provide insights that help teams make better decisions.  
 I also build data pipelines and analytics solutions to make working with data easier and more reliable.
 
