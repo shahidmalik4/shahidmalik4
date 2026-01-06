@@ -15,8 +15,6 @@ I also build data pipelines and analytics solutions to make working with data ea
 ---
 
 ## 📚 Projects
-
-- 🌐 **Portfolio:** Data analysis, engineering, and visualization on [my website](https://shahidmalik.vercel.app)  
 - 💻 **GitHub Repos:** [Explore projects](https://github.com/shahidmalik4?tab=repositories)  
 
 ---
