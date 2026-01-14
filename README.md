@@ -20,8 +20,6 @@ I also build data pipelines and analytics solutions to make working with data ea
 ---
 
 ## 📫 Connect
-
-- 🌐 [Website](https://shahidmalik.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahid-malik24/)  
 - ✉️ [Email](mailto:shahidawan145@gmail.com)  
 
