@@ -68,11 +68,11 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 
 > End-to-end analytics engineering projects covering pipeline design, data modeling, orchestration, and dashboard delivery.
 
-| Project | Stack | Description |
-|---|---|---|
-| 🔧  Project no 1 | dbt · Snowflake · Airflow | End-to-end ELT pipeline with modular dbt models and Airflow orchestration | ![Link](https://github.com/shahidmalik4/dbt-airflow-data-pipeline)
-| 📊 *Coming Soon* | Python · FastAPI · PostgreSQL | Automated reporting workflow with data quality checks |
-| 🏗️ *Coming Soon* | dbt · Docker · Power BI | Dimensional model with staging, mart layers, and executive dashboard |
+| Project | Stack | Description | Link |
+|---|---|---|---|
+| 🔧  Project no 1 | dbt · Snowflake · Airflow | End-to-end ELT pipeline with modular dbt models and Airflow orchestration | ![Link](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) |
+| 📊 *Coming Soon* | Python · FastAPI · PostgreSQL | Automated reporting workflow with data quality checks | NONE |
+| 🏗️ *Coming Soon* | dbt · Docker · Power BI | Dimensional model with staging, mart layers, and executive dashboard | NONE |
 
 📂 **[Explore all repositories →](https://github.com/shahidmalik4?tab=repositories)**
 
