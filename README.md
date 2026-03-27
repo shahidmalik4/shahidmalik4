@@ -85,6 +85,17 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 
 ---
 
+
+## Projects
+
+| # | Project | Stack | What it does |
+|---|---|---|---|
+| 1 | [Project Name](https://github.com/shahidmalik4) | dbt · Snowflake · Airflow | *Add 1-line description* |
+| 2 | [Project Name](https://github.com/shahidmalik4) | Python · PostgreSQL · FastAPI | *Add 1-line description* |
+| 3 | [Project Name](https://github.com/shahidmalik4) | dbt · Docker · Power BI | *Add 1-line description* |
+
+
+
 ## 🚀 Featured Projects
 
 > End-to-end analytics engineering projects covering pipeline design, data modeling, orchestration, and dashboard delivery.
@@ -134,23 +145,7 @@ Now I build the infrastructure side — dbt models, ELT pipelines, Airflow DAGs,
 
 ---
 
-## Projects
 
-| # | Project | Stack | What it does |
-|---|---|---|---|
-| 1 | [Project Name](https://github.com/shahidmalik4) | dbt · Snowflake · Airflow | *Add 1-line description* |
-| 2 | [Project Name](https://github.com/shahidmalik4) | Python · PostgreSQL · FastAPI | *Add 1-line description* |
-| 3 | [Project Name](https://github.com/shahidmalik4) | dbt · Docker · Power BI | *Add 1-line description* |
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidmalik4&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidmalik4&layout=compact&theme=default&hide_border=true" height="140"/>
-</p>
-
----
-
-Open to remote Analytics Engineering roles. [Let's talk.](mailto:shahidawan145@gmail.com)
