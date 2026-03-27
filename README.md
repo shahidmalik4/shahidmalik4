@@ -20,7 +20,7 @@
 
 4+ years working with sales, CRM, and supply chain data. I understand what breaks pipelines, what makes dashboards unreliable, and what actually drives decisions for business teams.
 
-**Now I focus on:**
+**Lately, my work has been focused on:**
 - dbt models  
 - ELT pipelines  
 - Airflow workflows  
