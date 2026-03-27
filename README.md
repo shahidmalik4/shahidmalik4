@@ -64,9 +64,7 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-**Concepts & Practices**
 
-`ELT / ETL Pipelines` · `Dimensional Modeling` · `Data Quality Frameworks` · `Pipeline Orchestration` · `Modular Data Modeling` · `Analytics Engineering`
 
 
 ## Stack
@@ -75,10 +73,14 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 |---|---|
 | Transformation | dbt, SQL |
 | Orchestration | Airflow |
-| Warehouse | Snowflake, PostgreSQL, BigQuery |
+| Warehouse | Snowflake, PostgreSQL |
 | Language | Python, FastAPI |
 | Infra | Docker, Git, Linux |
 | Analytics | Power BI, Excel, Pandas |
+
+**Concepts & Practices**
+
+`ELT / ETL Pipelines` · `Dimensional Modeling` · `Data Quality Frameworks` · `Pipeline Orchestration` · `Modular Data Modeling` · `Analytics Engineering`
 
 ---
 
