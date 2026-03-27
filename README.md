@@ -61,7 +61,7 @@
 > 
 | # | Project | Stack | What it does |
 |---|---|---|---|
-| 1 | [Project Name](https://github.com/shahidmalik4) | dbt · Snowflake · Airflow | *Add 1-line description* |
+| 1 | [Project 1](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) | dbt · Snowflake · Airflow | *Add 1-line description* |
 | 2 | [Project Name](https://github.com/shahidmalik4) | Python · PostgreSQL · FastAPI | *Add 1-line description* |
 | 3 | [Project Name](https://github.com/shahidmalik4) | dbt · Docker · Power BI | *Add 1-line description* |
 
