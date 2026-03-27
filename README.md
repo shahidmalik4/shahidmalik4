@@ -54,8 +54,6 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 
 ---
 
-
-## Projects
 ## 🚀 Featured Projects
 
 > End-to-end analytics engineering projects covering pipeline design, data modeling, orchestration, and dashboard delivery.
