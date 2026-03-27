@@ -61,7 +61,7 @@
 > 
 | # | Project | Stack | What it does |
 |---|---|---|---|
-| 1 | [dbt-airflow-data-pipeline](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) | dbt · Airflow · Metabase · Postgres · FastAPI · Docker | *Add 1-line description* |
+| 1 | [dbt-airflow-data-pipeline](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) | dbt · Airflow · Metabase · Postgres · FastAPI · Docker | *An end-to-end analytics workflow that transforms raw TPCH transactional data into clean, aggregated KPIs ready for analysis and visualization.* |
 | 2 | [analytics-pipeline-fastapi-dbt](https://github.com/shahidmalik4/analytics-pipeline-fastapi-dbt) | dbt · Streamlit · Postgres · FastAPI | *Add 1-line description* |
 | 3 | [python-elt-demo](https://github.com/shahidmalik4/python-elt-demo) | Python · Pandas · Postgres · SQLAlchemy · Docker | *Add 1-line description* |
 
