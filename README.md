@@ -71,6 +71,18 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 
 `ELT / ETL Pipelines` · `Dimensional Modeling` · `Data Quality Frameworks` · `Pipeline Orchestration` · `Modular Data Modeling` · `Analytics Engineering`
 
+
+## Stack
+
+| Layer | Tools |
+|---|---|
+| Transformation | dbt, SQL |
+| Orchestration | Airflow |
+| Warehouse | Snowflake, PostgreSQL, BigQuery |
+| Language | Python, FastAPI |
+| Infra | Docker, Git, Linux |
+| Analytics | Power BI, Excel, Pandas |
+
 ---
 
 ## 🚀 Featured Projects
@@ -103,15 +115,6 @@ Data Analyst with 4+ years · Transitioning into Analytics Engineering<br/>
 SQL · Python · dbt · Snowflake · Airflow · Power BI · Docker
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahid-malik24/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shahidawan145@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 4 years working with sales, CRM, and supply chain data. I know what breaks pipelines, what makes dashboards useless, and what actually moves the needle for business teams.
@@ -127,16 +130,7 @@ Now I build the infrastructure side — dbt models, ELT pipelines, Airflow DAGs,
 
 ---
 
-## Stack
 
-| Layer | Tools |
-|---|---|
-| Transformation | dbt, SQL |
-| Orchestration | Airflow |
-| Warehouse | Snowflake, PostgreSQL, BigQuery |
-| Language | Python, FastAPI |
-| Infra | Docker, Git, Linux |
-| Analytics | Power BI, Excel, Pandas |
 
 ---
 
