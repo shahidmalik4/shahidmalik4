@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shahid Malik 👋</h1>
 
 <p align="center">
-  <strong>Data Analyst → Analytics Engineer</strong><br/>
+  Data Analyst with 4+ years. <strong>Data Analyst → Analytics Engineer</strong><br/>
   Building reliable pipelines, scalable data models, and the infrastructure that makes analytics trustworthy.
 </p>
 
