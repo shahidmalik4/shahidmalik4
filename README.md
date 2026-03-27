@@ -63,7 +63,7 @@
 |---|---|---|---|
 | 1 | [Project 1](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) | dbt · Snowflake · Airflow | *Add 1-line description* |
 | 2 | [Project 2](https://github.com/shahidmalik4/analytics-pipeline-fastapi-dbt) | Python · PostgreSQL · FastAPI | *Add 1-line description* |
-| 3 | [Project Name](https://github.com/shahidmalik4) | dbt · Docker · Power BI | *Add 1-line description* |
+| 3 | [Project 3](https://github.com/shahidmalik4/python-elt-demo) | dbt · Docker · Power BI | *Add 1-line description* |
 
 📂 **[Explore all repositories →](https://github.com/shahidmalik4?tab=repositories)**
 
