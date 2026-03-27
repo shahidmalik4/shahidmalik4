@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shahid Malik 👋</h1>
 
 <p align="center">
-  Data Analyst with 4+ years. Transitioning into <strong> → Analytics Engineer</strong><br/>
+  Data Analyst with 4+ years. Transitioning into <strong> → Analytics Engineering</strong><br/>
   Building reliable pipelines, scalable data models, and the infrastructure that makes analytics trustworthy.
 </p>
 
@@ -17,6 +17,15 @@
 ---
 
 ## 👨‍💻 About Me
+
+4 years working with sales, CRM, and supply chain data. I know what breaks pipelines, what makes dashboards useless, and what actually moves the needle for business teams.
+
+Now I build the infrastructure side — dbt models, ELT pipelines, Airflow DAGs, data quality checks — the stuff that makes analytics reliable at scale.
+
+**What I've shipped at work:**
+- Automated reporting workflows that cut manual work by 30–40%
+- Data quality frameworks that improved forecasting accuracy across planning teams
+- Dashboards used by leadership that tied to PKR 89M+ in revenue growth and 11% margin improvement
 
 Data Analyst with **4+ years of experience**, actively transitioning into **Analytics Engineering**.
 
@@ -96,22 +105,4 @@ If you're building a modern data stack, hiring for AE roles, or working on suppl
 - 💼 [LinkedIn](https://www.linkedin.com/in/shahid-malik24/)
 - ✉️ [shahidawan145@gmail.com](mailto:shahidawan145@gmail.com)
 
-
-
-<h1 align="center">Shahid Malik</h1>
-
-<p align="center">
-Data Analyst with 4+ years · Transitioning into Analytics Engineering<br/>
-SQL · Python · dbt · Snowflake · Airflow · Power BI · Docker
-</p>
-
 ---
-
-4 years working with sales, CRM, and supply chain data. I know what breaks pipelines, what makes dashboards useless, and what actually moves the needle for business teams.
-
-Now I build the infrastructure side — dbt models, ELT pipelines, Airflow DAGs, data quality checks — the stuff that makes analytics reliable at scale.
-
-**What I've shipped at work:**
-- Automated reporting workflows that cut manual work by 30–40%
-- Data quality frameworks that improved forecasting accuracy across planning teams
-- Dashboards used by leadership that tied to PKR 89M+ in revenue growth and 11% margin improvement
