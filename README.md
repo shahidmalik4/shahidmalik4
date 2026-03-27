@@ -72,7 +72,13 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 
 If you're building a modern data stack, hiring for AE roles, or working on supply chain and revenue analytics — I'd love to connect.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahid-malik24/)
-- ✉️ [shahidawan145@gmail.com](mailto:shahidawan145@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahid-malik24/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shahidawan145@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
