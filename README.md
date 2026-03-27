@@ -18,23 +18,23 @@
 
 ## 👨‍💻 About Me
 
-4+ years working with sales, CRM, and supply chain data. I know what breaks pipelines, what makes dashboards useless, and what actually moves the needle for business teams.
+4+ years working with sales, CRM, and supply chain data. I understand what breaks pipelines, what makes dashboards unreliable, and what actually drives decisions for business teams.
 
 **Now I focus on:**
-- dbt models
-- ELT pipelines
-- Airflow workflows
-- data quality checks
-- Snowflake data warehousing
+- dbt models  
+- ELT pipelines  
+- Airflow workflows  
+- data quality checks  
+- Snowflake data warehousing  
 
 — building analytics that people can actually trust.
 
 **What I've shipped at work:**
-- Reduced manual reporting by 30–40%
-- Data quality frameworks that improved forecasting accuracy across planning teams
-- Built data systems used by leadership, contributing to:
-- PKR 89M+ revenue growth
-- 11% margin improvement
+- Reduced manual reporting by **30–40%**  
+- Built data quality frameworks that improved forecasting accuracy across planning teams  
+- Developed data systems used by leadership, contributing to:  
+  - **PKR 89M+ revenue growth**  
+  - **11% margin improvement**
 
 ---
 
