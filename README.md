@@ -20,20 +20,21 @@
 
 4+ years working with sales, CRM, and supply chain data. I know what breaks pipelines, what makes dashboards useless, and what actually moves the needle for business teams.
 
-Now I build the infrastructure side — dbt models, ELT pipelines, Airflow DAGs, data quality checks — the stuff that makes analytics reliable at scale.
+**Now I focus on:**
+- dbt models
+- ELT pipelines
+- Airflow workflows
+- data quality checks
+- Snowflake data warehousing
+
+— building analytics that people can actually trust.
 
 **What I've shipped at work:**
-- Automated reporting workflows that cut manual work by 30–40%
+- Reduced manual reporting by 30–40%
 - Data quality frameworks that improved forecasting accuracy across planning teams
-- Dashboards used by leadership that tied to PKR 89M+ in revenue growth and 11% margin improvement
-
-Data Analyst with **4+ years of experience**, actively transitioning into **Analytics Engineering**.
-
-Over the past year I've moved beyond reporting into building the infrastructure that makes analytics reliable and repeatable — designing **dbt models**, building **ELT pipelines**, implementing **data quality frameworks**, and orchestrating workflows with **Airflow**.
-
-In my current role at **Lasani Publishers**, my work has contributed to **PKR 89M+ in revenue growth** and an **11% improvement in profit margins** — not just through insights, but through building systems that make those insights consistent and trustworthy.
-
-> 💡 *My analytics background is an advantage — I don't just build pipelines, I build them knowing exactly what downstream analysts and business teams need from the data.*
+- Built data systems used by leadership, contributing to:
+- PKR 89M+ revenue growth
+- 11% margin improvement
 
 ---
 
