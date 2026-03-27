@@ -7,25 +7,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-malik24/">
-    <img src="https://img.shields.io/badge/LinkedIn-shahid--malik24-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shahidawan145@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shahidawan145@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shahidmalik4?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore%20Repos-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahid-malik24/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shahidawan145@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shahidmalik4?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore%20Repos-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
