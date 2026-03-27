@@ -61,7 +61,7 @@
 > 
 | # | Project | Stack |
 |---|---|---|
-| 1 | [dbt-airflow-data-pipeline](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) |
+| 1 | [dbt-airflow-data-pipeline](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) | dbt · Airflow · Metabase · Postgres · FastAPI |
 | 2 | [analytics-pipeline-fastapi-dbt](https://github.com/shahidmalik4/analytics-pipeline-fastapi-dbt) | dbt · Streamlit · Postgres · FastAPI |
 | 3 | [python-elt-demo](https://github.com/shahidmalik4/python-elt-demo) | Python · Pandas · Postgres · SQLAlchemy · Docker |
 
