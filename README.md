@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-4 years working with sales, CRM, and supply chain data. I know what breaks pipelines, what makes dashboards useless, and what actually moves the needle for business teams.
+4+ years working with sales, CRM, and supply chain data. I know what breaks pipelines, what makes dashboards useless, and what actually moves the needle for business teams.
 
 Now I build the infrastructure side — dbt models, ELT pipelines, Airflow DAGs, data quality checks — the stuff that makes analytics reliable at scale.
 
