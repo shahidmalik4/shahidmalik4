@@ -39,36 +39,6 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 
 ## 🛠 Tech Stack
 
-**Core Engineering**
-
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Data Warehouses & Databases**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-
-**Analytics & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-
-
-
-## Stack
-
 | Layer | Tools |
 |---|---|
 | Transformation | dbt, SQL |
@@ -76,7 +46,7 @@ In my current role at **Lasani Publishers**, my work has contributed to **PKR 89
 | Warehouse | Snowflake, PostgreSQL |
 | Language | Python, FastAPI |
 | Infra | Docker, Git, Linux |
-| Analytics | Power BI, Excel, Pandas |
+| Analytics | Power BI, Looker, Excel, Pandas |
 
 **Concepts & Practices**
 
