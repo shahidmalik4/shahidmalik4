@@ -64,7 +64,6 @@ Building systems is genuinely what I enjoy. Pipelines, infrastructure, backend d
 
 ## 📫 Let's Connect
 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/shahid-malik24/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?
@@ -75,3 +74,5 @@ Building systems is genuinely what I enjoy. Pipelines, infrastructure, backend d
     style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
