@@ -4,18 +4,13 @@
   I build the pipelines, infrastructure, and backend 
   data systems that make analytics reliable at scale.
 </p>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-malik24/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?
-    style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shahidawan145@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?
-    style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shahidmalik4?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?
-    style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
