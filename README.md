@@ -45,18 +45,6 @@ Building systems is genuinely what I enjoy. Pipelines, infrastructure, backend d
 
 ---
 
-## 🚀 Projects
-
-| # | Project | Stack |
-|---|---|---|
-| 1 | [dbt-airflow-data-pipeline](https://github.com/shahidmalik4/dbt-airflow-data-pipeline) | dbt · Airflow · FastAPI · Metabase · Docker · PostgreSQL |
-| 2 | [analytics-pipeline-fastapi-dbt](https://github.com/shahidmalik4/analytics-pipeline-fastapi-dbt) | dbt · FastAPI · Streamlit · PostgreSQL |
-| 3 | [python-elt-demo](https://github.com/shahidmalik4/python-elt-demo) | Python · Pandas · PostgreSQL · SQLAlchemy · Docker |
-
-📂 **[All repositories](https://github.com/shahidmalik4?tab=repositories)**
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
