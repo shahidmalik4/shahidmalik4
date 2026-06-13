@@ -22,10 +22,10 @@ For 4+ years I've been the only data person at my company. Not just analyzing da
 Building systems is genuinely what I enjoy. Pipelines, infrastructure, backend data systems that run reliably without anyone babysitting them. That's the work I want to keep doing, and Data Engineering is the role that matches it.
 
 **What I've shipped at work:**
+- Led end-to-end migration of production database from **MS SQL Server to PostgreSQL**, including schema conversion, data validation, and cutover planning
 - Cut manual reporting effort by **30-40%** through Python automation
-- Migrated production database from **MS SQL Server to PostgreSQL**
-- Built data pipelines and dashboards used by leadership for revenue and margin decisions
 - Contributed to **PKR 89M+ revenue growth** and **11% margin improvement**
+- Built data pipelines and dashboards used by leadership for revenue and margin decisions
 
 ---
 
