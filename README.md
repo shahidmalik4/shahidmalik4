@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Shahid Malik 👋</h1>
 <p align="center">
-  I build the pipelines, infrastructure, and backend 
-  data systems that make analytics reliable at scale.
+  I build pipelines, infrastructure, and backend data systems that make analytics reliable at scale.
 </p>
 </p>
 <p align="center">
