@@ -18,7 +18,7 @@ As the sole data professional at my company, I've owned data workflows end to en
 
 Alongside my production work, I build hands-on projects to deepen my experience with modern data engineering and analytics engineering practices, including:
 
-**dbt · Airflow · Snowflake · Docker · FastAPI · GitHub Actions · CI/CD · AWS · Spark**
+**dbt · Airflow · Snowflake · Docker · FastAPI · GitHub Actions · CI/CD · PySpark**
 
 I'm currently focused on **Analytics Engineering and Data Engineering**, with an interest in building reliable pipelines, well-modeled data, and production-grade data systems.
 
