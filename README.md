@@ -1,44 +1,38 @@
-<h1 align="center">Hi, I'm Shahid Malik 👋</h1>
-<p align="center">
-  I build pipelines, infrastructure, and backend data systems that make analytics reliable at scale.
-</p>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahid-malik24/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shahidawan145@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-For 4+ years I've been the only data person at my company. Not just analyzing data, but doing the actual work: migrating the entire database from MS SQL Server to PostgreSQL, managing CRM and payments data, writing SQL and Python scripts for analytics, ad-hoc requests, automation, and scheduling jobs.
+I'm a data professional with 4+ years of production experience building the data systems behind analytics and reporting — from data pipelines and modeling to database migrations, automation, and data quality.
 
-Building systems is genuinely what I enjoy. Pipelines, infrastructure, backend data systems that run reliably without anyone babysitting them. That's the work I want to keep doing, and Data Engineering is the role that matches it.
+As the sole data professional at my company, I've owned data workflows end to end, working across production databases, business systems, and operational teams to build reliable and usable data solutions.
 
-**What I've shipped at work:**
-- Led end-to-end migration of production database from **MS SQL Server to PostgreSQL**, including schema conversion, data validation, and cutover planning
-- Cut manual reporting effort by **30-40%** through Python automation
-- Contributed to **PKR 89M+ revenue growth** and **11% margin improvement**
-- Built data pipelines and dashboards used by leadership for revenue and margin decisions
+### 🚀 Production Experience
 
----
+- Led the end-to-end migration of a production database from **MS SQL Server to PostgreSQL**, including schema conversion, data validation, and cutover
+- Designed layered SQL data pipelines across **staging → cleansing → modeling** for sales and CRM data
+- Automated reporting and data workflows with **Python**, reducing manual effort by **30–40%**
+- Built data quality checks and analytical workflows supporting an **11% margin improvement** and contributing to **PKR 89M+ in revenue growth**
+- Built data models and reporting datasets supporting **revenue, profitability, sales, and supply chain analytics**
 
-## 🛠 Tech Stack
+### 🔧 Analytics Engineering & Data Engineering
 
-| Layer | Tools |
-|---|---|
-| Ingestion | Python, dlt, Airbyte |
-| Transformation | dbt, SQL |
-| Orchestration | Airflow |
-| Warehousing | Snowflake, PostgreSQL, Redshift |
-| Big Data | Databricks, Apache Spark (PySpark) |
-| Infrastructure | Docker, GitHub Actions CI/CD, AWS (S3, Glue, Athena) |
-| Language | Python, FastAPI |
-| Analytics | Power BI, Metabase, Pandas |
+Alongside my production work, I build hands-on projects to deepen my experience with modern data engineering and analytics engineering practices, including:
+
+**dbt · Airflow · Snowflake · Docker · FastAPI · GitHub Actions · CI/CD · AWS · Spark**
+
+I'm currently focused on **Analytics Engineering and Data Engineering**, with an interest in building reliable pipelines, well-modeled data, and production-grade data systems.
+
+### 🛠 Tech Stack
+
+| Layer          | Tools                                                |
+| -------------- | ---------------------------------------------------- |
+| Ingestion      | Python, dlt, Airbyte                                 |
+| Transformation | SQL, dbt                                             |
+| Orchestration  | Airflow                                              |
+| Warehousing    | PostgreSQL, Snowflake, Redshift                      |
+| Big Data       | Databricks, Apache Spark (PySpark)                   |
+| Infrastructure | Docker, GitHub Actions, AWS (S3, Glue, Athena)      |
+| Backend        | Python, FastAPI                                      |
+| Analytics      | Power BI, Metabase, Pandas                           |
 
 ---
