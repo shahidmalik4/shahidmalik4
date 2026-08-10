@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a data professional with 4+ years of production experience building the data systems behind analytics and reporting — from data pipelines and modeling to database migrations, automation, and data quality.
+I'm a data professional with 4+ years of production experience building the data systems behind analytics and reporting, from data pipelines and modeling to database migrations, automation, and data quality.
 
 As the sole data professional at my company, I've owned data workflows end to end, working across production databases, business systems, and operational teams to build reliable and usable data solutions.
 
@@ -28,11 +28,11 @@ I'm currently focused on **Analytics Engineering and Data Engineering**, with an
 | -------------- | ---------------------------------------------------- |
 | Ingestion      | Python, dlt, Airbyte                                 |
 | Transformation | SQL, dbt                                             |
-| Orchestration  | Airflow                                              |
-| Warehousing    | PostgreSQL, Snowflake, Redshift                      |
+| Orchestration  | Airflow, Dagster                                     |
+| Warehousing    | Snowflake, BigQuery                                  |
 | Big Data       | Databricks, Apache Spark (PySpark)                   |
-| Infrastructure | Docker, GitHub Actions, AWS (S3, Glue, Athena)      |
+| Infrastructure | Docker, CI/CD, GitHub Actions                        |
 | Backend        | Python, FastAPI                                      |
-| Analytics      | Power BI, Metabase, Pandas                           |
+| Analytics      | PowerBI, Metabase, Pandas                           |
 
 ---
