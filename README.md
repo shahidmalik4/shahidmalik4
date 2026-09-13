@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 About Me
 
 I'm a data professional with 4+ years of production experience building the data systems behind analytics and reporting, from data pipelines and modeling to database migrations, automation, and data quality.
