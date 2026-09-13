@@ -6,32 +6,26 @@ As the sole data professional at my company, I've owned data workflows end to en
 
 ### 🚀 Production Experience
 
-* Led the end-to-end migration of a production database from **MS SQL Server to PostgreSQL**, including schema conversion, data validation, reconciliation, and production cutover
-* Designed layered SQL data pipelines across **staging → cleansing → modeling** for sales and CRM data
+* Led the migration of a production database from **SQL Server to PostgreSQL**, including schema conversion, data validation, reconciliation, and production cutover
+* Designed and maintained layered SQL data pipelines across **ingestion → staging → cleansing → modeling** for sales and CRM data
 * Automated reporting and data workflows with **Python**, reducing manual effort by **~35%**
 * Implemented data quality and validation checks that contributed to a **4 percentage-point improvement in profit margin** and **~20% revenue growth**
 * Built data models and reporting datasets supporting **revenue, profitability, sales, and supply chain analytics**
 
 ### 🔧 Analytics Engineering & Data Engineering
 
-Alongside my production work, I build hands-on projects to deepen my experience with modern data engineering and analytics engineering practices, including:
+Alongside my production work, I build hands-on projects to deepen my experience with modern analytics and data engineering practices.
 
-**dbt · Airflow · Snowflake · Docker · FastAPI · GitHub Actions · CI/CD · PySpark**
+**dbt · Snowflake · Airflow · Docker · FastAPI · CI/CD**
 
-I'm currently focused on **Analytics Engineering and Data Engineering**, with an interest in building reliable pipelines, well-modeled data, and production-grade data systems.
+I'm currently focused on **Analytics Engineering and Data Engineering**, with an interest in building reliable pipelines, well-modeled data, and maintainable data systems.
 
 ### 🛠 Tech Stack
 
-| Layer          | Tools                              |
-| -------------- | ---------------------------------- |
-| Ingestion      | Python, dlt, Airbyte               |
-| Transformation | SQL, dbt                           |
-| Orchestration  | Airflow, Dagster                   |
-| Warehousing    | Snowflake, BigQuery                |
-| Big Data       | Databricks, Apache Spark (PySpark) |
-| Infrastructure | Docker, CI/CD, GitHub Actions      |
-| Backend        | Python, FastAPI                    |
-| Analytics      | Power BI, Metabase, Pandas         |
-
-
----
+| Category                  | Tools                                   |
+| ------------------------- | --------------------------------------- |
+| **Data**                  | SQL · PostgreSQL · SQL Server · Python  |
+| **Analytics Engineering** | dbt · Data Modeling · ELT               |
+| **Orchestration & Cloud** | Airflow · Snowflake                     |
+| **Engineering**           | Docker · FastAPI · Git · GitHub Actions |
+| **Analytics**             | Power BI                                |
