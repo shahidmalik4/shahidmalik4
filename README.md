@@ -4,15 +4,15 @@
 
 I'm a data professional with 4+ years of production experience building the data systems behind analytics and reporting, from data pipelines and modeling to database migrations, automation, and data quality.
 
-As the sole data professional at my company, I've owned data workflows end to end, working across production databases, business systems, and operational teams to build reliable and usable data solutions.
+As the sole data professional at my company, I've owned data workflows end to end, working across production databases, business systems, and operational processes to build reliable and usable data solutions.
 
 ### 🚀 Production Experience
 
-- Led the end-to-end migration of a production database from **MS SQL Server to PostgreSQL**, including schema conversion, data validation, and cutover
-- Designed layered SQL data pipelines across **staging → cleansing → modeling** for sales and CRM data
-- Automated reporting and data workflows with **Python**, reducing manual effort by **30–40%**
-- Built data quality checks and analytical workflows supporting an **11% margin improvement** and contributing to **PKR 89M+ in revenue growth**
-- Built data models and reporting datasets supporting **revenue, profitability, sales, and supply chain analytics**
+* Led the end-to-end migration of a production database from **MS SQL Server to PostgreSQL**, including schema conversion, data validation, reconciliation, and production cutover
+* Designed layered SQL data pipelines across **staging → cleansing → modeling** for sales and CRM data
+* Automated reporting and data workflows with **Python**, reducing manual effort by **~35%**
+* Implemented data quality and validation checks that contributed to a **4 percentage-point improvement in profit margin** and **~20% revenue growth**
+* Built data models and reporting datasets supporting **revenue, profitability, sales, and supply chain analytics**
 
 ### 🔧 Analytics Engineering & Data Engineering
 
@@ -24,15 +24,16 @@ I'm currently focused on **Analytics Engineering and Data Engineering**, with an
 
 ### 🛠 Tech Stack
 
-| Layer          | Tools                                                |
-| -------------- | ---------------------------------------------------- |
-| Ingestion      | Python, dlt, Airbyte                                 |
-| Transformation | SQL, dbt                                             |
-| Orchestration  | Airflow, Dagster                                     |
-| Warehousing    | Snowflake, BigQuery                                  |
-| Big Data       | Databricks, Apache Spark (PySpark)                   |
-| Infrastructure | Docker, CI/CD, GitHub Actions                        |
-| Backend        | Python, FastAPI                                      |
-| Analytics      | PowerBI, Metabase, Pandas                           |
+| Layer          | Tools                              |
+| -------------- | ---------------------------------- |
+| Ingestion      | Python, dlt, Airbyte               |
+| Transformation | SQL, dbt                           |
+| Orchestration  | Airflow, Dagster                   |
+| Warehousing    | Snowflake, BigQuery                |
+| Big Data       | Databricks, Apache Spark (PySpark) |
+| Infrastructure | Docker, CI/CD, GitHub Actions      |
+| Backend        | Python, FastAPI                    |
+| Analytics      | Power BI, Metabase, Pandas         |
+
 
 ---
