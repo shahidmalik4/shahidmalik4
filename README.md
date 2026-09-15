@@ -10,7 +10,7 @@ Over time, my work has moved beyond traditional analytics toward the engineering
 
 * Led the migration of a production database from **SQL Server to PostgreSQL**, covering schema conversion, data validation, reconciliation, and production cutover
 * Designed and maintained layered SQL data pipelines across **ingestion → staging → cleansing → modeling** for sales, CRM, and operational data
-* Automated reporting and data workflows using **Python**, reducing manual reporting effort by **~35%**
+* Automated recurring reporting and data workflows using **Python and PostgreSQL**, including data extraction, validation, PDF report generation, and automated email delivery, significantly reducing manual reporting effort.
 * Implemented automated **data quality and validation checks** to improve reliability and reduce discrepancies across business reporting
 * Built reusable **SQL data models and reporting datasets** supporting revenue, profitability, sales, customer, and operational analytics
 * Delivered data-driven improvements that contributed to **~20% revenue growth** and a **4 percentage-point improvement in profit margin**
